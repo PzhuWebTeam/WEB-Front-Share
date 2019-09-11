@@ -4,7 +4,7 @@
 
 ### 2019-9-11
 
-+ [前端学习思维导图](https://www.processon.com/mindmap/5d2155a3e4b07917e2d8203a)  千味、任云宏
++ [前端学习思维导图](https://www.processon.com/view/link/5d428272e4b065dc42ba52e9)  千味、任云宏
 
 ##  分享会规则 
 

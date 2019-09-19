@@ -3,7 +3,7 @@
 ##  分享会摘要
 
 ### 2019-9-11
-+ [简单脚手架搭建]（https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-9-11/%E5%8D%83%E5%91%B3/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%AD%A6%E4%B9%A0.md） 千味
++ [简单脚手架搭建](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-9-11/%E5%8D%83%E5%91%B3/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%AD%A6%E4%B9%A0.md) 千味
 
 + [前端学习思维导图](https://www.processon.com/view/link/5d428272e4b065dc42ba52e9)  千味、任云宏
 

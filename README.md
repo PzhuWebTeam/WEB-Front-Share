@@ -2,11 +2,11 @@
 
 ##  分享会摘要
 ### 2019-9-22
-+ [简单脚手架搭建](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-9-11/%E5%8D%83%E5%91%B3/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%AD%A6%E4%B9%A0.md) 千味
++ [简单脚手架搭建](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-9-11/%E5%8D%83%E5%91%B3/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%AD%A6%E4%B9%A0.md) 罗文
 
 ### 2019-9-11
 
-+ [前端学习思维导图](https://www.processon.com/view/link/5d428272e4b065dc42ba52e9)  千味、任云宏
++ [前端学习思维导图](https://www.processon.com/view/link/5d428272e4b065dc42ba52e9)  罗文、任云宏
 
 ##  分享会规则 
 
@@ -20,13 +20,12 @@
 
 5. 分享会内容不限，如若没有分享的主题，可以参考上面的前端学习思维导图。
 
-6. 请参会人员为自己想一个花名（字数限定2个字，自愿）
 
 ##  GitHub 代码提交流程
 
 1. 拉去远程仓库到本地，并建立联系。
 
-+ 在远程GitHub仓库中先建立自己的分支，分支命名统一为 **feature/花名字母小写**
++ 在远程GitHub仓库中先建立自己的分支，分支命名统一为 **feature/姓名字母小写**
 
 + 拉取远程仓库
 
@@ -37,13 +36,13 @@
 + 在本地新建属于自己的分支
 
   ```
-  git checkout -b [feature/花名字母小写]
+  git checkout -b [feature/姓名字母小写]
   ```
 
 + 在本地新建的分支下关联远程自己新建的分支。
 
   ```javascript
-  git branch -u origin/[远程新建的分支名：feature/花名字母小写]
+  git branch -u origin/[远程新建的分支名：feature/姓名字母小写]
   ```
 
   ⚠️：该命令的执行一定需要在你本地新建的分支下执行，切勿关联他人分支和**master**主分支

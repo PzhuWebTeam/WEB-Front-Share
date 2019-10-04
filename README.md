@@ -58,7 +58,7 @@
 + 此时本地的 master 主分支就是最新的内容，你需要将主分支合并到你本地新建的分支中
 
   ```javascript
-  git checkout [feature/花名字母小写]//如果你已经在当前分支就可以不用执行该命令
+  git checkout [feature/姓名字母小写]//如果你已经在当前分支就可以不用执行该命令
   
   git merge master // 将主分支的内容合并到你本地新建的分支
   ```

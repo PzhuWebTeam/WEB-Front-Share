@@ -42,7 +42,8 @@
 + 在本地新建的分支下关联远程自己新建的分支。
 
   ```javascript
-  git branch -u origin/[远程新建的分支名：feature/姓名字母小写]
+  git pull  // 先拉去远程的新建的分支到本地
+  git branch -u origin/[远程新建的分支名：feature/姓名字母小写] // 本地关联远程新建的分支
   ```
 
   ⚠️：该命令的执行一定需要在你本地新建的分支下执行，切勿关联他人分支和**master**主分支

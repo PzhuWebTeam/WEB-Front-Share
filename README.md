@@ -1,6 +1,9 @@
 # WEB 应用专业团队-前端小组周末分享会
 
 ##  分享会摘要
+### 2019-11-24
++ [git 开发流程规范](https://github.com/PzhuWebTeam/WEB-Front-Share/tree/feature/luowen/2019-11-24) 罗文
+
 ### 2019-10-13
 + [分享会纪要](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-10-13/%E9%A2%98%E7%9B%AE%E6%8E%A8%E8%8D%90.md) 任云宏
 

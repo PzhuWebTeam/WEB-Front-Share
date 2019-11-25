@@ -2,8 +2,7 @@
 
 ## 最流行的Git flow 流程介绍
 
-1. [git流程图](https://images.cnblogs.com/cnblogs_com/cnblogsfans/771108/o_git-flow-nvie.png)
-
+1. ![8](https://images.cnblogs.com/cnblogs_com/cnblogsfans/771108/o_git-flow-nvie.png)****
 1. master 分支
 
    这个分支是发布到生产环境的分支，只能从其他分支合并，不能在这个分支直接修改

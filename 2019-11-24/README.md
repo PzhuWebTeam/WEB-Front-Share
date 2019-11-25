@@ -1,7 +1,6 @@
 
 
 ## 最流行的Git flow 流程介绍
-
 ![o_git-flow-nvie](https://images.cnblogs.com/cnblogs_com/cnblogsfans/771108/o_git-flow-nvie.png)
 
 1. master 分支

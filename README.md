@@ -1,6 +1,12 @@
 # WEB 应用专业团队-前端小组周末分享会
 
 ##  分享会摘要
+### 2019-11-24
++ [git 开发流程规范](https://github.com/PzhuWebTeam/WEB-Front-Share/tree/feature/luowen/2019-11-24) 罗文
+
+### 2019-10-13
++ [分享会纪要](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-10-13/%E9%A2%98%E7%9B%AE%E6%8E%A8%E8%8D%90.md) 任云宏
+
 ### 2019-9-22
 + [简单脚手架搭建](https://github.com/PzhuWebTeam/WEB-Front-Share/blob/master/2019-9-11/%E5%8D%83%E5%91%B3/%E8%84%9A%E6%89%8B%E6%9E%B6%E5%AD%A6%E4%B9%A0.md) 罗文
 
@@ -42,7 +48,8 @@
 + 在本地新建的分支下关联远程自己新建的分支。
 
   ```javascript
-  git branch -u origin/[远程新建的分支名：feature/姓名字母小写]
+  git pull  // 先拉去远程的新建的分支到本地
+  git branch -u origin/[远程新建的分支名：feature/姓名字母小写] // 本地关联远程新建的分支
   ```
 
   ⚠️：该命令的执行一定需要在你本地新建的分支下执行，切勿关联他人分支和**master**主分支

@@ -1,0 +1,29 @@
+代码共享：
+    多人协同开发时，写好代码的git push 上传到远程仓库；需要代码的 git pull 拉取代码即可。
+
+分支的使用：
+    创建并推送分支：
+        1.首先查看当前分支
+            git branch -a
+            -a代表查看本地和远程的分支，此时我们看到都只有一个master分支
+        2.新建分支dev
+            git checkout -b dev
+            -b代表同时切换到dev分支下面去，这时你可以再去查看分支
+        3.然后我们重新写一个b.js文件，再执行add，commit，最后push；
+            git add b.js
+            git commit -m "dev"
+            git push origin dev       注意push时要到dev分支
+            切换分支可以用 git checkout [branch-name]
+    整合分支：
+        当我们在dev下折腾完成后，最终要整合到master中去，
+        1.切换本地分支到master
+          	git checkout master
+        2.将远程仓库的最新代码pull下来
+          	git pull origin master
+        3.然后再把本地的dev代码整合到master
+        	git merge dev
+        4更新到远程仓库
+        	git push origin master
+        完成！
+
+
